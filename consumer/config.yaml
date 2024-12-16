@@ -1,0 +1,11 @@
+kafka:
+  servers:
+    - localhost:9093
+  group: accountConsumer
+
+db:
+  username: boat
+  password: P@ssw0rd
+  host: localhost
+  port: 3306
+  database: learning_kafka

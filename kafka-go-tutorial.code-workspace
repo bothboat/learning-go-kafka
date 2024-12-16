@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "server"
+        },
+        {
+            "path": "consumer"
+        },
+        {
+            "path": "producer"
+        },
+        {
+            "path": "events"
+        }
+    ]
+}
